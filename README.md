@@ -1,1 +1,1 @@
-# CV
+Hi, I'm a Computer Engineering student with a strong interest in Java programming, SQL databases, and web development using HTML. I enjoy solving coding problems, writing SQL queries to manage data, and creating simple, user-friendly web pages. I'm currently learning more about backend development and full-stack technologies to build practical and real-world projects.
